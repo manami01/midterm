@@ -1,5 +1,5 @@
 var findFirstEvenNumber = function(n){ //配列って、書かなくても言い。
-if(n.length == 0){
+if(n.length == 0){ //=じゃなくて、==じゃないといけない！！
 	return null;}
 };
 
