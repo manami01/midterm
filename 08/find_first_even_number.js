@@ -1,5 +1,5 @@
-var list = [1, 2, 3, 4, 5];
-
-var findFirstEvenNumber = find(list){
+var findFirstEvenNumber = function(list){ //配列って、書かなくても言い。
 	return list % 2 === 0
 };
+
+//なんなんだー！笑
